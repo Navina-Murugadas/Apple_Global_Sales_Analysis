@@ -20,6 +20,11 @@ This project demonstrates how Excel can be leveraged for **business intelligence
 
 ---
 
+## 📊 Dashboard Preview  
+<img width="1858" height="746" alt="Apple Store Sales - Excel Dashboard" src="https://github.com/user-attachments/assets/08f44cae-333d-499b-b14d-06259c428f7b" />
+
+---
+
 ## 📊 Dashboard Features  
 - **Sales % by Country** → global revenue contribution.  
 - **Top 5 Products** → product performance leaderboard.  
