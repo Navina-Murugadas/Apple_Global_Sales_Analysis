@@ -58,5 +58,7 @@ This project showcases:
 
 ---
 
-👩‍💻 **Author:** Navina M | *Data Analyst Portfolio Project*  
-📧 [navina.mk7@gmail.com](mailto:navina.mk7@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
+## 👩‍💻 Author  
+**Navina M** | *Data Analyst Portfolio Project*  
+📧 [navina.mk7@gmail.com](mailto:navina.mk7@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/navina-m/) | 🌐 [Portfolio Website](https://navina-murugadas.github.io/Portfolio/)
+
