@@ -45,4 +45,7 @@ This project demonstrates how Excel can be leveraged for **business intelligence
 
 ---
 
-👩‍💻 **Author:** Navina M | *Data Analyst Portfolio Project*  
+## 👩‍💻 Author  
+**Navina M** | *Data Analyst Portfolio Project*  
+📧 [navina.mk7@gmail.com](mailto:navina.mk7@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/navina-m/) | 🌐 [Portfolio Website](https://navina-murugadas.github.io/Portfolio/)
+
