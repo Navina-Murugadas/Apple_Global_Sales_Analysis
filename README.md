@@ -1,4 +1,4 @@
-<img width="1858" height="746" alt="Apple Store Sales - Excel Dashboard" src="https://github.com/user-attachments/assets/d143ca93-55fa-4282-8903-8e46acb5ac5c" /># 📊 Apple Store Sales Analysis (Excel Dashboard)
+# 📊 Apple Store Sales Analysis (Excel Dashboard)
 
 ## 📌 Project Overview  
 A fully interactive **Excel dashboard** analyzing **Apple Store sales performance (2018–2022)** across products, regions, and time.  
@@ -54,7 +54,7 @@ This project showcases:
 ---
 
 ## 📸 Dashboard Preview  
-<img width="1858" height="746" alt="Apple Store Sales - Excel Dashboard" src="https://github.com/user-attachments/assets/45dca402-9d41-4146-a16d-aff4626f73b1" />
+<img width="1858" height="746" alt="Apple Store Sales - Excel Dashboard" src="https://github.com/user-attachments/assets/56f3d0a9-73a2-44a1-853c-89bd1e5cc43e" />
 
 ---
 
